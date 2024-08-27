@@ -1,21 +1,34 @@
-<h1>Hi 👋, There</h1>
-<h3>A Passionate Frontend Developer From India.</h3>
+# Hi 👋, I'm Md Mojahid
 
-- 🌱 I’m currently working as a Software Engineer
-- 👨‍💻 My Tech Stack is Next.js, React.js, React-Native, etc.
-- 💬 Ask me about Frontend Development including **(Web/Android/iOS)** app
-- 📄 Know more about me [here](https://mdmojahid.netlify.app/)
-- 📫 How to reach me **mojahidmd92@gmail.com**
-- ⚡ Fun fact **Everyone seems to know everything about anybody, but in reality, nobody truly knows about nobody😁**
+### A Passionate Frontend Developer from India
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently working as a Software Engineer at [LegitBytes IT Services LLP](https://legitbytes.com/)
+- 👨‍💻 My Tech Stack:
+  - **Frontend**: Next.js, React.js, React-Native
+  - **Styling**: CSS, SASS, Bootstrap, Material-UI, Tailwind
+  - **Tools**: VS code, Git, Postman, Firebase
+- 💬 Feel free to ask me about Frontend Development for **Web, Android, or iOS apps**.
+- 📄 Learn more about my work and projects on my [portfolio](https://mdmojahid.netlify.app/).
+- 📫 You can reach me via email: **mojahidmd92@gmail.com**
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mdmojahid01)
+- ⚡ **Fun Fact**: Everyone seems to know everything about others, but in reality, nobody truly knows anybody! 😁
+
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mdmojahid01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmojahid01" height="30" width="40" />
   </a>
-</p>
+</p> -->
 
-<h3 align="left">Languages and Tools:</h3>
+### Live Projects
+
+- 👋 [My Personal Portfolio](https://mdmojahid.netlify.app/) - Built with React.js, deployed on Netlify
+- 🎮 [React Tic Tac Toe Game](https://mdmojahid01.github.io/tic-tac-toe/) - A simple Tic Tac Toe game using React, deployed on GitHub Pages
+- 🛠️ [To-do App](https://md-react-todo-app.netlify.app/) - Manage your daily tasks. Built using React JS, and Firebase
+- 🔊 [Buddy-Noise Chatroom](https://buddynoise.netlify.app/) - A full-stack chatroom app built using the MERN stack
+
+### Languages and Tools:
+
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
