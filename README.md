@@ -8,7 +8,7 @@
   - **Styling**: CSS, SASS, Bootstrap, Material-UI, Tailwind
   - **Tools**: VS code, Git, Postman, Firebase
 - 💬 Feel free to ask me about Frontend Development for **Web, Android, or iOS apps**.
-- 📄 Learn more about my work and projects on my [portfolio](https://mdmojahid.netlify.app/).
+- 📄 Learn more about my work and projects on my [portfolio](https://mojahid.dev/).
 - 📫 You can reach me via email: **mojahidmd92@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/mdmojahid01)
 - ⚡ **Fun Fact**: Everyone seems to know everything about others, but in reality, nobody truly knows anybody! 😁
@@ -22,7 +22,7 @@
 
 ### Live Projects
 
-- 👋 [My Personal Portfolio](https://mdmojahid.netlify.app/) - Built with React.js, deployed on Netlify
+- 👋 [My Personal Portfolio](https://mojahid.dev/) - Built with React.js, deployed on Netlify
 - 🎮 [React Tic Tac Toe Game](https://mdmojahid01.github.io/tic-tac-toe/) - A simple Tic Tac Toe game using React, deployed on GitHub Pages
 - 🛠️ [To-do App](https://md-react-todo-app.netlify.app/) - Manage your daily tasks. Built using React JS, and Firebase
 - 🔊 [Buddy-Noise Chatroom](https://buddynoise.netlify.app/) - A full-stack chatroom app built using the MERN stack
