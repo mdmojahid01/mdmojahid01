@@ -14,6 +14,8 @@
 - 💼 Connect on [LinkedIn](https://linkedin.com/in/mdmojahid01)
 - ⚡ **Fun Fact:** I love solving problems with clean, scalable code and continuously exploring new tech!
 
+<!-- Keywords: React, Next.js, TypeScript, JavaScript, Node.js, Express.js, AWS, Lambda, CI/CD, Docker, GitHub Actions, Firebase, Redux, React Native, Full-Stack Developer, MERN, DevOps, Web Development -->
+
 ### 🚀 Live Projects
 
 - 🎯 [Tic Tac Toe Game](https://mdmojahid01.github.io/tic-tac-toe/) – Simple React-based game deployed via GitHub Pages
