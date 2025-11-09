@@ -16,11 +16,17 @@
 
 <!-- Keywords: React, Next.js, TypeScript, JavaScript, Node.js, Express.js, AWS, Lambda, CI/CD, Docker, GitHub Actions, Firebase, Redux, React Native, Full-Stack Developer, MERN, DevOps, Web Development -->
 
+---
+
 ### 🚀 Live Projects
 
-- 🎯 [Tic Tac Toe Game](https://mdmojahid01.github.io/tic-tac-toe/) – Simple React-based game deployed via GitHub Pages
-- ✅ [To-do App](https://md-react-todo-app.netlify.app/) – React + Firebase app to manage daily tasks
-- 💬 [Buddy-Noise Chatroom](https://buddynoise.netlify.app/) – A MERN stack real-time chatroom app
+🔗 Explore all my live projects and case studies on my personal portfolio:  
+👉 **[mojahid.dev](https://mojahid.dev)**  
+
+> My portfolio showcases selected full-stack applications, UI experiments, and open-source contributions — all in one place!
+
+---
+
 
 ### 🛠️ Languages and Tools:
 
